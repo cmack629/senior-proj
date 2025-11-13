@@ -1,2 +1,2 @@
-source /Users/corey/Documents/PlatformIO/Projects/senior-proj/.pio/build/seeed_xiao_esp32c6/bootloader/gdbinit/symbols
-source /Users/corey/Documents/PlatformIO/Projects/senior-proj/.pio/build/seeed_xiao_esp32c6/bootloader/gdbinit/connect
+source C:/Users/novao/My_Repos/Senior_PROJ/senior-proj/.pio/build/seeed_xiao_esp32c6/bootloader/gdbinit/symbols
+source C:/Users/novao/My_Repos/Senior_PROJ/senior-proj/.pio/build/seeed_xiao_esp32c6/bootloader/gdbinit/connect

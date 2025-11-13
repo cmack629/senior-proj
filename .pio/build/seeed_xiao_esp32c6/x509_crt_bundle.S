@@ -1,4 +1,4 @@
-/* * Data converted from /Users/corey/Documents/PlatformIO/Projects/senior-proj/.pio/build/seeed_xiao_esp32c6/x509_crt_bundle
+/* * Data converted from C:\Users\novao\My_Repos\Senior_PROJ\senior-proj\.pio\build\seeed_xiao_esp32c6\x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)
