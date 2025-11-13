@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/corey/Documents/PlatformIO/Projects/senior-proj/.pio/build/seeed_xiao_esp32c6/CMakeFiles/bootloader
+/Users/corey/Documents/PlatformIO/Projects/senior-proj/.pio/build/seeed_xiao_esp32c6/CMakeFiles/bootloader.rule
+/Users/corey/Documents/PlatformIO/Projects/senior-proj/.pio/build/seeed_xiao_esp32c6/CMakeFiles/bootloader-complete.rule
+/Users/corey/Documents/PlatformIO/Projects/senior-proj/.pio/build/seeed_xiao_esp32c6/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/corey/Documents/PlatformIO/Projects/senior-proj/.pio/build/seeed_xiao_esp32c6/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/corey/Documents/PlatformIO/Projects/senior-proj/.pio/build/seeed_xiao_esp32c6/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/corey/Documents/PlatformIO/Projects/senior-proj/.pio/build/seeed_xiao_esp32c6/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/corey/Documents/PlatformIO/Projects/senior-proj/.pio/build/seeed_xiao_esp32c6/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/corey/Documents/PlatformIO/Projects/senior-proj/.pio/build/seeed_xiao_esp32c6/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/corey/Documents/PlatformIO/Projects/senior-proj/.pio/build/seeed_xiao_esp32c6/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
