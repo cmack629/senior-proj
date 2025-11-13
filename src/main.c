@@ -27,5 +27,6 @@ void app_main(void)
         vTaskDelay(pdMS_TO_TICKS(1000));
         gpio_set_level(LED_PIN, LED_OFF);
         vTaskDelay(pdMS_TO_TICKS(1000));
+        printf("Hello World");
     }
 }
