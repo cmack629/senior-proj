@@ -1,1 +1,5 @@
+# PlatformIO build output
+.pio/
 
+# VS Code auto-generated stuff
+.vscode/
