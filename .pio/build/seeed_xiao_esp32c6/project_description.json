@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "senior-proj",
-    "project_version":    "aca4251-dirty",
+    "project_version":    "4ac50ca-dirty",
     "project_path":       "C:/Users/novao/My_Repos/Senior_PROJ/senior-proj",
     "idf_path":           "C:/Users/novao/.platformio/packages/framework-espidf",
     "build_dir":          "C:/Users/novao/My_Repos/Senior_PROJ/senior-proj/.pio/build/seeed_xiao_esp32c6",

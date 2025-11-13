@@ -1,6 +1,6 @@
-#include "freertos/FreeRTOS.h"
-#include "freertos/task.h"
-#include "driver/gpio.h"
+#include <freertos/FreeRTOS.h>
+#include <freertos/task.h>
+#include <driver/gpio.h>
 
 // XIAO ESP32C6 on-board USER LED (yellow) is on GPIO15, active-low.
 #define LED_PIN   15
